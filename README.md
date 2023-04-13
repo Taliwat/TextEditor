@@ -63,11 +63,9 @@ devDependencies":
 
 ## Usage
 
-1. Go to the homepage
-2. Log In or Sign up as a new User
-3. From there can view information about the Loan Officers on their About Me pages.
-4. Once logged in users can submit a new Loan Application for review.
-5.  Once submitted it will go to the assigned Loan Officer for review and Pre-Qualification.
+1. Load website from Heroku or locally.
+2. Use as text editor as you so wish, and enjoy!
+
 
 
 ## 🤝 Credits
