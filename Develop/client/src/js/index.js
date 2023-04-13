@@ -23,9 +23,9 @@ if (typeof editor === 'undefined') {
   loadSpinner();
 }
 
-// Check if service workers are supported
+// Are service workers supported
 if ('serviceWorker' in navigator) {
-  // register workbox service worker
+  // Show workbox service worker
   const workboxSW = new Workbox('/src-sw.js');
   workboxSW.register();
 } else {
